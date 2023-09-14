@@ -2,7 +2,10 @@
 Developed a stock price predictor using machine learning algorithms to forecast future price movements based on historical data, technical indicators, and market trends. Achieved accurate predictions to aid in informed investment decision-making. Implemented in Python, utilizing regression and time series analysis techniques.
 
 # Application of Stock Price Predictor
-This robust machine learning model will use the historical stock market data to accurately forecast future stock prices. Leveraged advanced algorithms and statistical techniques to identify patterns and trends, providing valuable insights for informed investment decisions. Implemented the project using Python and popular libraries like Pandas, NumPy, and scikit-learn. The predictor model demonstrated high accuracy (95%) and reliability, enabling traders and investors to optimize portfolio strategies, mitigate risks, and capitalize on market opportunities. Seeking opportunities to apply this predictive model to enhance financial forecasting and drive profitability in the finance industry.
+This robust machine learning model will use the historical stock market data to accurately forecast future stock prices. Leveraged advanced algorithms and statistical techniques to identify patterns and trends, providing valuable insights for informed investment decisions. Implemented the project using Python and popular libraries like Pandas, NumPy, and scikit-learn. The predictor model demonstrated high **accuracy of 95%** and reliability, enabling traders and investors to optimize portfolio strategies, mitigate risks, and capitalize on market opportunities. Seeking opportunities to apply this predictive model to enhance financial forecasting and drive profitability in the finance industry.
+
+![stock_graph](https://github.com/yatharth-2906/Stock-Price-Predictor/assets/97800277/87d8eaef-6703-4a87-94b3-31986cfc7b4e)
+
 
 # LSTM
 1. LSTM (Long Short-Term Memory) is a type of recurrent neural network (RNN) architecture commonly used for time series analysis and prediction tasks, making it suitable for stock price prediction.
